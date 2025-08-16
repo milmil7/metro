@@ -1,0 +1,33 @@
+{
+  "name": "test_color_theme",
+  "type": "color",
+  "content": {
+    "titlebarBg": "[#171819]",
+    "titlebarText": "[#FFFFFF]",
+    "titlebarBorderColor": "[#171819]",
+
+    "activeTab": "bg-[#3B82F6] text-white",
+    "tab": "bg-[#000000] transparent hover:bg-[#6B7280] hover:bg-[#FFFFFF]",
+
+    "error": "[#DC2626]",
+    "errorText": "[#FFFFFF]",
+    "warning": "[#F59E0B]",
+    "warningText": "[#000000]",
+    "info": "[#3B82F6]",
+    "infoText": "[#FFFFFF]",
+    "success": "[#10B981]",
+    "successText": "[#FFFFFF]",
+
+    "base": "[#171819]",
+    "baseDarker": "[#000]",
+    "baselighter": "[#3F444D]",
+    "baseText": "[#FFFFFF]",
+
+    "windowBorderColor": "[#1F2328]",
+    "terminalBorderColor": "[#1F2328]",
+
+    "explorerBg": "[#000000]",
+    "explorerText": "[#FFFFFF]",
+    "explorerBorderColor": "[#1F2328]"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "test_ui_theme",
+  "type": "ui",
+  "content": {
+    "titlebarBorderWidth": "1",
+    "windowBorderWidth": "1",
+    "terminalBorderWidth": "1",
+    "explorerBorderWidth": "1",
+    "titlebarShadow": "[0px_0px_0px_black]",
+    "terminalShadow": "[0px_0px_0px_black]",
+    "explorerShadow": "[0px_0px_0px_black]"
+  }
+}

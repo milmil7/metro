@@ -1,0 +1,31 @@
+{
+  "name": "test_terminal_theme",
+  "type": "terminal",
+  "content": {
+    "background": "#000",
+    "activeBackground": "#121214",
+    "activeBorder": "#227cff",
+    "foreground": "#90EE90",
+    "cursor": "#FFFF00",
+    "selectionBackground": "#333333",
+    "selectionForeground": "#FFFFFF",
+    "black": "#000000",
+    "blue": "#0000FF",
+    "brightBlack": "#696969",
+    "brightBlue": "#4169E1",
+    "brightCyan": "#00FFFF",
+    "brightGreen": "#00FF00",
+    "red": "#FF0000",
+    "brightMagenta": "#FF00FF",
+    "brightRed": "#FF6347",
+    "brightWhite": "#FFFFFF",
+    "cyan": "#00BFFF",
+    "brightYellow": "#FFFF00",
+    "cursorAccent": "#000000",
+    "green": "#008000",
+    "magenta": "#FF00FF",
+    "yellow": "#FFA500",
+    "white": "#F5F5DC",
+    "selectionInactiveBackground": "#555555"
+  }
+}
